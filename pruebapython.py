@@ -9,3 +9,5 @@ print("De nuevo agregando cambios") #solucionando segundo error - segundo proble
 print("Un footer hecho con amor <3")
 
 print("Un poco de más amor para el footer")
+
+print("recordatorio, para que siempre cierres los print")
